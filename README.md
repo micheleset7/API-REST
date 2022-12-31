@@ -59,15 +59,15 @@ Rotas no Postman
 
 ## Autor
 
+<table >
+  <tr>
+    <td align="center"><a href="https://github.com/micheleset7"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60739164?v=4" width="100px;" alt=""/><br /><sub><b>Michele Coelho</b></sub></a><br/>
+    <a href="https://www.linkedin.com/in/michelecoelho/"><img src="https://img.shields.io/badge/-Michele-blue?style=flat-square&logo=Linkedin&logoColor=white"></a></td>
+    </tr>
+ </table>
 
-
-
-<div align="center">
-  <img width="150" height="150" src="https://media.licdn.com/dms/image/C5603AQGL8fqXK7Itzw/profile-displayphoto-shrink_800_800/0/1608240689454?e=1675900800&v=beta&t=9LQ-IdfJAmKr_NUGlSwaZ_O2g7j9Xa7nFGZ3aIabAdI" alt="Pessoa desenvolvedora"/>
-  </br> Michele Coelho 
-</div>
-
-- [Github](https://github.com/micheleset7) <br/>
-- [Linkedin](https://www.linkedin.com/in/michelecoelho/)
-- [Intagram](https://www.instagram.com/michellecoelho7/)
-- Email : [michelleset.pe@gmail.com]()
+<a href ="https://www.instagram.com/michellecoelho7/" target="_blank">
+	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+	</a>
+	
+ Email : [michelleset.pe@gmail.com]()
